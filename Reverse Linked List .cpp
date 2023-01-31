@@ -8,7 +8,7 @@ class Solution
         // return head of reversed list
         Node* prev=NULL;
         Node*curr=head;
-        Node*fut=head->next;
+        Node*fut;
         while(curr!=NULL)
         {
             fut=curr->next;
