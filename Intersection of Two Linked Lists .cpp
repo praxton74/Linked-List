@@ -17,3 +17,4 @@ int intersectPoint(Node* head1, Node* head2)
     }
     return p1->data;
 }
+ 
