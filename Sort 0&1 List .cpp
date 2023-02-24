@@ -27,3 +27,4 @@ ListNode* Solution::solve(ListNode* A)
     }
     return A;
 }
+ 
